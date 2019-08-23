@@ -1,0 +1,58 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+img {
+	display: block;
+}
+
+h2 {
+	font-size: 60px;
+}
+
+h3 {
+	font-size: 40px;
+}
+
+
+/* News Section Strat */
+
+.news-section {
+	background-color: #c6c5c552;
+	
+}
+
+.container h2 {
+	text-align: center;
+}
+
+.news-row {
+	margin-top: 100px;
+
+}
+
+.one {
+	text-align: center;
+
+}
+
+.div-img {
+	max-width: 100%;
+}
+
+.one h3 {
+	margin-top: 20px;
+}
+
+.nws-btn {
+	margin-top: 20px;
+	background: #ffff;
+	border-radius: 20px;
+	padding: 5px 40px;
+	margin-bottom: 100px;
+}
+
+
+
+/* News Section End */
